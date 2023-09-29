@@ -1,4 +1,4 @@
-# SQL-Project-Car-Analysis
+# SQL-Project-Car-Sales-Analysis
 SQL project to analyze the car sales data over the years.  
 Tool used : MySQL  
 
